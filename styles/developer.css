@@ -1,0 +1,134 @@
+* {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+.header {
+  background: #fff8f3;
+  background-image: url("../images/header_bg.png"),
+    url("../images/developer.png");
+  background-position: right bottom, left;
+  background-repeat: no-repeat;
+  margin-bottom: 50px;
+}
+/* header style*/
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 60px;
+}
+nav ul {
+  display: flex;
+  align-items: center;
+}
+nav li {
+  list-style: none;
+  margin: 10px;
+}
+.nav-title {
+  font-weight: 800;
+  font-size: 45px;
+  margin-left: 55px;
+}
+
+.r-style {
+  color: #fd6e0a;
+}
+
+.btn-primary {
+  padding: 18px 35px;
+  background-color: #fd6e0a;
+  height: 65px;
+  border-radius: 8px;
+  border: 0;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.btn-primary:hover {
+  background-color: #d66717;
+
+  color: #0fe221;
+}
+/* banner style */
+.banner {
+  margin: 0 60px 0 130px;
+  display: flex;
+  align-items: center;
+}
+
+.banner-sub-tittle {
+  font-weight: 600;
+  font-size: 45px;
+}
+
+.banner-tittle {
+  font-weight: 700;
+  font-size: 85px;
+  margin-bottom: 20px;
+}
+
+.description {
+  font-weight: 400;
+  font-size: 18px;
+  color: #757575;
+  margin-bottom: 25px;
+}
+
+.btn-primary-b {
+  padding: 18px 35px;
+
+  height: 65px;
+
+  border: 1px solid #fd6e0a;
+  color: #fd6e0a;
+  font-weight: 700;
+  font-size: 20px;
+  margin-left: 10px;
+}
+/* main section */
+main {
+  max-width: 1040px;
+  margin: 0 auto;
+}
+/* aobut me section  */
+.about {
+  margin-top: 130px;
+  background: #fff8f3;
+  border-radius: 10px;
+
+  padding: 130px 150px;
+  text-align: center;
+}
+
+.section-tittle {
+  font-weight: 700;
+  font-size: 35px;
+
+  color: #181818;
+  margin-bottom: 20px;
+}
+
+.section-description {
+  font-weight: 400;
+  font-size: 18px;
+  color: #757575;
+}
+
+.about-info-container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.info-title {
+  font-weight: 400;
+  font-size: 20px;
+  color: #757575;
+}
+
+.info-description {
+  font-weight: 700;
+  font-size: 20px;
+  color: #474747;
+}
