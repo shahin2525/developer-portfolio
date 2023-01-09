@@ -162,3 +162,109 @@ main {
 
 .sills-description {
 }
+
+/* resume styles */
+.resume {
+  /* background: #1e1e1e; */
+}
+.resume-content {
+  display: flex;
+  gap: 40px;
+  margin: 0 45px;
+}
+
+.resume-tittle {
+  font-weight: 700;
+  font-size: 25px;
+  color: #474747;
+  display: inline;
+}
+.resume.sub-tittle {
+  font-weight: 600;
+  font-size: 20px;
+  color: #757575;
+}
+.resume.description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #757575;
+}
+
+.resume-item {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.btn2 {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+/* footer style */
+
+.footer {
+  display: flex;
+  gap: 100px;
+  padding: 100px 70px;
+  background: #fff8f3;
+}
+
+.footer-tittle {
+  font-weight: 700;
+  font-size: 35px;
+  text-align: center;
+  color: #181818;
+  margin-bottom: 20px;
+}
+
+.footer.section-tittle {
+  /* margin-top: 130px;
+  color: #181818;
+  font-weight: 700;
+  font-size: 35px; */
+  text-align: left;
+}
+
+.footer-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #474747;
+  margin-bottom: 25px;
+}
+
+.table {
+  display: block;
+}
+
+form {
+  margin: 25px;
+}
+
+.footer-div {
+  margin-bottom: 20px;
+}
+
+.footer-tittle2 {
+  font-weight: 700;
+  font-size: 35px;
+  text-align: center;
+  color: #181818;
+  margin-bottom: 20px;
+}
+
+input {
+  margin: 10px 0px;
+}
+
+.email {
+  margin-bottom: 24px;
+}
+
+.textarea {
+  padding: 18px 0px 0px 30px;
+}
+
+.btn-primary {
+  background: #ffffff;
+}
