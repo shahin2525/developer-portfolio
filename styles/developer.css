@@ -259,12 +259,19 @@ input {
 
 .email {
   margin-bottom: 24px;
+  padding: 18px 0px 18px 30px;
+  width: 461px;
 }
-
+.name {
+  padding: 18px 0px 18px 30px;
+  width: 461px;
+}
 .textarea {
   padding: 18px 0px 0px 30px;
+  width: 461px;
 }
 
-.btn-primary {
-  background: #ffffff;
-}
+/* .width {
+  width: 461px;
+  height: 64px;
+} */
