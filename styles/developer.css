@@ -78,6 +78,9 @@ nav li {
   margin-bottom: 25px;
 }
 
+.btn-fast {
+  display: flex;
+}
 .btn-primary-b {
   padding: 18px 35px;
 
