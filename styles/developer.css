@@ -67,8 +67,9 @@ nav li {
 
 .banner-tittle {
   font-weight: 700;
-  font-size: 85px;
+  font-size: 65px;
   margin-bottom: 20px;
+  /* display: flex; */
 }
 
 .description {
